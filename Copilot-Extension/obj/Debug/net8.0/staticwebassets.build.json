@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "c7zJL+bP14/ouyIsQY0sNWya2nwhJgHK+jmqZEcYNvU=",
+  "Source": "Copilot-Extension",
+  "BasePath": "_content/Copilot-Extension",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
